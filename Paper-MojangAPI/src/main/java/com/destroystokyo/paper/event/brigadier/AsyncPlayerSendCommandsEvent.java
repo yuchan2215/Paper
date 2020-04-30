@@ -56,6 +56,7 @@ public class AsyncPlayerSendCommandsEvent <S extends BukkitBrigadierCommandSourc
     @NotNull
     public HandlerList getHandlers() {
         return handlers;
+        //GoldArmor is best
     }
 
     @NotNull
